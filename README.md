@@ -9,5 +9,6 @@
 * Then I performed an error analysis to gain insights into the model's misclassifications, including looking at misclassified examples, examining feature importance, correlation analysis, and performance metrics.
 * Based on the insights gained from the error analysis, we made improvements to the model by adjusting the feature selection or engineering new features.
 
-
+Here is the link for better explanation of the dataset and prediction.
+https://medium.com/@HenryMorgansDiary/stress-prediction-with-ml-and-its-analysis-abf8fa0f884f
 
